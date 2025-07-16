@@ -1,5 +1,5 @@
 {
- 
+  "homepage": "https://AreebaMemon.github.io/my-portfolio",
   "name": "vite-react-typescript-starter",
  
   "private": true,
@@ -12,7 +12,8 @@
  
    
   "dev": "vite",
- 
+   "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
    
   "build": "vite build",
  
