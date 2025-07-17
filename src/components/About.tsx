@@ -8,7 +8,7 @@ const About: React.FC = () => {
     { name: 'HTML5', level: 95 },
     { name: 'CSS3/Sass', level: 90 },
     { name: 'JavaScript', level: 85 },
-    { name: 'Responsive Design', level: 90 },
+    { name: 'React', level: 90 },
     { name: 'Node', level: 80 },
   ];
 
