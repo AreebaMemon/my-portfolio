@@ -1,5 +1,3 @@
-Of course! Here is a shorter and more concise version.
-
 ---
 
 # Personal Portfolio
@@ -19,10 +17,13 @@ A modern and responsive portfolio website built with **Vite + React + TypeScript
     ```sh
     git clone https://github.com/AreebaMemon/my-portfolio.git
     ```
+
 2.  **Install dependencies:**
     ```sh
     npm install
-    ```3.  **Start the server:**
+    ```
+
+3.  **Start the server:**
     ```sh
     npm run dev
     ```
