@@ -19,7 +19,7 @@ A clean and responsive portfolio website built with React to showcase my project
 
 1.  **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    git clone https://github.com/AreebaMemon/my-portfolio.git
     ```
 2.  **Install dependencies:**
     ```sh
