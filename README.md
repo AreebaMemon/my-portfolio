@@ -1,19 +1,17 @@
-# Personal Portfolio (React Version)
+Of course! Here is a shorter and more concise version.
 
-A clean and responsive portfolio website built with React to showcase my projects and skills.
+---
 
-## Key Features
+# Personal Portfolio
 
-*   **Component-Based:** Built with a modern React structure.
-*   **Responsive Design:** Looks great on all devices.
-*   **Light & Dark Themes:** Easily switch between two visual modes.
-*   **Project Showcase:** Displays my work with links to demos and code.
+A modern and responsive portfolio website built with **Vite + React + TypeScript** and styled with **Tailwind CSS**.
 
-## Technologies Used
+## Tech Stack
 
-*   **React:** For building the user interface.
-*   **CSS3:** For styling and animations.
-*   **JavaScript (ES6+):** For application logic.
+*   Vite
+*   React
+*   TypeScript
+*   Tailwind CSS
 
 ## How to Run Locally
 
@@ -24,11 +22,11 @@ A clean and responsive portfolio website built with React to showcase my project
 2.  **Install dependencies:**
     ```sh
     npm install
-    ```
-3.  **Start the development server:**
+    ```3.  **Start the server:**
     ```sh
-    npm start
+    npm run dev
     ```
-    This will open the portfolio in your browser at `http://localhost:3000`.
+
+The application will be available at `http://localhost:5173`.
 
 ---
